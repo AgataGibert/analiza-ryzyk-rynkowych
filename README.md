@@ -1,5 +1,5 @@
 # analiza-ryzyk-rynkowych
-[W TRAKCIE REALIZACJI] Analiza wybranych spółek z sektora handlu detalicznego.
+Analiza wybranych spółek z sektora handlu detalicznego.
 
 Analiza logarytmicznych stóp zwrotu, ryzyka inwestycyjnego oraz sprawdzenie korelacji między kursami dla wybranych spółek z sektora handlu detalicznego (LPP, Dino Polska, Allegro, Pepco, Modivo).
 # Wykorzystane narzędzia
